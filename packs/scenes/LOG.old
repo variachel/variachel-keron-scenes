@@ -1,0 +1,15 @@
+2024/06/20-18:51:05.466920 30ab1f000 Recovering log #12
+2024/06/20-18:51:05.467397 30ab1f000 Delete type=0 #12
+2024/06/20-18:51:05.467444 30ab1f000 Delete type=3 #10
+2024/06/21-00:43:12.822015 30498b000 Level-0 table #17: started
+2024/06/21-00:43:12.833795 30498b000 Level-0 table #17: 794778 bytes OK
+2024/06/21-00:43:12.834989 30498b000 Delete type=0 #15
+2024/06/21-00:43:12.835283 30498b000 Manual compaction at level-0 from '!folders!3KmTBw07iD94AAbQ' @ 72057594037927935 : 1 .. '!scenes.walls!qeVbGhN5qY5ZoEe3.zxNjRo4MNedhIFKu' @ 0 : 0; will stop at (end)
+2024/06/21-00:43:12.835341 30498b000 Manual compaction at level-1 from '!folders!3KmTBw07iD94AAbQ' @ 72057594037927935 : 1 .. '!scenes.walls!qeVbGhN5qY5ZoEe3.zxNjRo4MNedhIFKu' @ 0 : 0; will stop at '!scenes.walls!qeVbGhN5qY5ZoEe3.zxNjRo4MNedhIFKu' @ 3444 : 1
+2024/06/21-00:43:12.835350 30498b000 Compacting 1@1 + 1@2 files
+2024/06/21-00:43:12.844603 30498b000 Generated table #18@1: 4372 keys, 515322 bytes
+2024/06/21-00:43:12.844634 30498b000 Compacted 1@1 + 1@2 files => 515322 bytes
+2024/06/21-00:43:12.844708 30498b000 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/06/21-00:43:12.844843 30498b000 Delete type=2 #17
+2024/06/21-00:43:12.844982 30498b000 Delete type=2 #13
+2024/06/21-00:43:12.847992 30498b000 Manual compaction at level-1 from '!scenes.walls!qeVbGhN5qY5ZoEe3.zxNjRo4MNedhIFKu' @ 3444 : 1 .. '!scenes.walls!qeVbGhN5qY5ZoEe3.zxNjRo4MNedhIFKu' @ 0 : 0; will stop at (end)
